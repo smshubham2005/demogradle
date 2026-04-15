@@ -21,7 +21,7 @@ sh 'gradle test'}
 }
 stage('Run Application'){
 steps{
-sh 'gardle run'}
+sh 'gradle run'}
 
 }
 }
